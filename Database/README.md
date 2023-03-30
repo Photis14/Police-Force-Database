@@ -33,9 +33,5 @@ $ pip install -r requirements.txt
 $ python manage.py runserver
 The application will then be available in your browser at http://localhost:3000/.
 
-Sample Screenshot
-Here is a sample screenshot of the web front end of the Police Force Database application:
-
-Police Force Database Screenshot
 
 Thank you for checking out my Police Force Database Web Application!
