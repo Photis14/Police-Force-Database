@@ -1,12 +1,12 @@
-#Police Force Database Web Application
+# Police Force Database Web Application
 This is a full-stack web application that utilizes React JS for the front end, Python Django API for the back end, and SQLite for the database. The main purpose of this application is to provide a unique Police Force database where users can view and manage data in four different tables: Units, Employees, Vehicles, and Logs.
 
-Features
+# Features
 The application has a user-friendly web front end that provides a navigation system between all of the tables. Within each table, you can view all the attributes of the entities of data, including the update and delete buttons.
 
 The four tables were designed based on real-life instances of actual police force databases. Each table contains unique data that was collected to ensure the accuracy and reliability of the database.
 
-Technology Stack
+# Technology Stack
 The following technologies were used in the development of this application:
 
 React JS for the front-end
