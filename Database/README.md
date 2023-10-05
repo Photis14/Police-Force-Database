@@ -15,8 +15,6 @@ SQLite for the database
 Getting Started
 To use this application, you must have Node.js, React JS, Python, and Django installed on your local machine. Once installed, clone the repository and navigate to the project's root folder in your terminal. Then, run the following commands:
 
-bash
-Copy code
 # Install the front-end dependencies
 $ npm install
 
@@ -24,8 +22,6 @@ $ npm install
 $ npm start
 In another terminal window, navigate to the backend folder and run the following command:
 
-bash
-Copy code
 # Install the back-end dependencies
 $ pip install -r requirements.txt
 
